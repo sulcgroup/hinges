@@ -16,4 +16,4 @@ Analysis of hydrogen bond patterns in the theoretically single-stranded flexure 
 
 ## Output
 
-Output from the final_figure.ipynb script can be found in [final_figures](https://github.com/sulcgroup/hinges/tree/main/final_figures).
+Output from the final_figure.ipynb script can be found in [final_plots](https://github.com/sulcgroup/hinges/tree/main/final_plots).
